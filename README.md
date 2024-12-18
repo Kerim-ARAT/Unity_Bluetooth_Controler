@@ -14,17 +14,16 @@ This project is a Unity game created using a Bluetooth controller. It allows use
 - A Bluetooth-supported computer
 
 ## Installation
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/username/project-name.git
-    ```
-2. **Open with Unity**:
-    - Open Unity and select `Open Project`.
-    - Choose the folder where you cloned the project.
+1. **Install the Application**:
+    - Download and install the application.
+    - Copy it to the relevant project folder.
+    
+2. **Open the Project**:
+    - Wait for the project to open and the necessary packages to be loaded.
 
-3. **Connect Bluetooth Controller**:
-    - Connect your Bluetooth device to your computer.
-    - Run the game and pair your controller.
+3. **Run the Scene**:
+    - In the opened application, navigate to `Assets/Scenes` folder.
+    - Run the appropriate scene and press the `Play` button.
 
 ## Usage
 1. Open the project in Unity.
@@ -32,13 +31,6 @@ This project is a Unity game created using a Bluetooth controller. It allows use
 3. Press the `Play` button in the game window.
 4. Connect your Bluetooth device and control the characters in the game.
 
-## Contributing
-If you would like to contribute to the project, please open a `pull request` or create an `issue`. All contributions are welcome!
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
 ---
 
 If you encounter any issues or have suggestions, please let me know!
-
