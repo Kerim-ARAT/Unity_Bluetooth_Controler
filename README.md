@@ -30,6 +30,8 @@ This project is a Unity game created using a Bluetooth controller. It allows use
 2. Open the main scene in the `Scenes` folder.
 3. Press the `Play` button in the game window.
 4. Connect your Bluetooth device and control the characters in the game.
+5. Have fun but how can you have fun with such a simple project?
+I don't know, it's up to you now.:)
 
 ---
 
