@@ -1,0 +1,54 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "83dc8b3d-4da0-4e01-8227-89128a6ca84d",
+            "actions": [
+                {
+                    "name": "Grow",
+                    "type": "Button",
+                    "id": "414956cf-da75-4949-9bbe-1a0ceb732a17",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Shrink",
+                    "type": "Button",
+                    "id": "cf7541d9-5dc8-44c5-bf44-15fb689bcda0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "64c1dafd-c6f5-4c20-bcc6-099857806e19",
+                    "path": "<HID::248A-8266>/button8",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grow",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "47133734-434f-491e-b7da-e63cda9cb1f5",
+                    "path": "<HID::248A-8266>/button7",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shrink",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
